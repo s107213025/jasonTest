@@ -2,6 +2,7 @@
 123456
 張宸瑜吃大便
 汪汪汪冠儀吃屎
+哈哈哈我不會分之
 require("dbconnect.php");
 $title=mysqli_real_escape_string($conn,$_POST['title']);
 $content=mysqli_real_escape_string($conn,$_POST['content']);
