@@ -2,6 +2,7 @@
 123456
 張宸瑜吃大便
 我是分支哈哈
+你是智障嗎
 require("dbconnect.php");
 $title=mysqli_real_escape_string($conn,$_POST['title']);
 $content=mysqli_real_escape_string($conn,$_POST['content']);
